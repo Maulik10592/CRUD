@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "maulik",
+      "email": "maulik10@gmail.com",
+      "role": "Frontend Developer",
+      "address": "New Sama Road Vadodara"
+    },
+    {
+      "id": "2",
+      "name": "keval",
+      "email": "keval@yahoo.com",
+      "role": "UI developer",
+      "address": "waghodia"
+    },
+    {
+      "id": "3",
+      "name": "nandan",
+      "email": "nandan@gmail.com",
+      "role": "HTML developer",
+      "address": "Bihar UP"
+    },
+    {
+      "id": "4",
+      "name": "varshil",
+      "email": "varshil@hotmail.com",
+      "role": "sr. Frontend developer",
+      "address": "rajkot"
+    },
+    {
+      "id": "5",
+      "name": "santosh",
+      "email": "santosh@gmail.com",
+      "role": "sr. UI developer",
+      "address": "rajkot"
+    },
+    {
+      "id": "3e67",
+      "name": "test",
+      "email": "test@test.com",
+      "role": "testing",
+      "address": "vadodara"
+    }
+  ]
+}

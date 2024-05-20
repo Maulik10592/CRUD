@@ -50,6 +50,7 @@ h1{
     color: #ffffff;
     display: inline-flex;
     align-items: center;
+    text-decoration: none;
     justify-content: center;
     text-transform: capitalize;
     transition: 1s;
@@ -79,6 +80,10 @@ h1{
     font-weight: 500;
     font-size: 14px;
     color: #fff;
+    background: transparent;
+}
+.table td .btn {
+    margin: 0 5px 5px 0;
 }
 .table th{
     padding: 20px 15px;
@@ -87,22 +92,37 @@ h1{
 .table tr:nth-child(even) {
     background-color: rgba(255, 255, 255, 0.2);
 }
-
+.form {
+    border: 1px solid #fff;
+    box-shadow: 0 0 5px #0fc;
+    padding: 30px;
+    margin: 30px;
+    background: rgba(0, 0, 0, 0.2);
+    min-width: 300px;
+}
+.form-control:focus, .form-control:hover {
+    color: #ffffff !important;
+    background-color: transparent !important;
+    border-color: #0fc !important;
+    box-shadow: 0 0 5px #0fc !important;
+}
 .form label{
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     display: block;
+    color: #ffffff;
 }
 .form input{
     width: 100%;
-    margin-bottom: 20px;
-    height: 40px;
+    margin-bottom: 15px;
+    height: 45px;
     display: block;
     padding: 5px 10px;
     box-shadow: none;
     outline: 0;
     background: transparent;
     border: 1px solid #fff;
+    border-radius: 0;
     color: #ffffff;
     box-sizing: border-box;
 }
