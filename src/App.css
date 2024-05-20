@@ -9,8 +9,8 @@ body{
     background: linear-gradient(to right, #25c481, #25b7c4);
     color: #ffffff;
 }
-.container{
-    width: 75vw;
+.container{   
+    width: 75vw; 
     max-width: 100%;
 }
 .d-flex{
