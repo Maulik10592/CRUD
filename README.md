@@ -19,7 +19,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
+git clone https://github.com/Maulik10592/CRUD.git
 cd crud-app
 ```
 
